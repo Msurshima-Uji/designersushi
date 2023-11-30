@@ -1,0 +1,25 @@
+.navbar{
+    margin-bottom: 10px;
+    background-color: white;
+    margin-top: 15px;
+}
+.navbar p{
+    margin-left: 40px;
+    margin-right: 650px;
+    font-weight: bolder;
+    font-size: larger;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-right: 45px;
+}
+.menu{
+    margin-left: 20px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,27 @@
+.about{
+    background-color: #1e1e1e;
+    color: white;
+    padding-bottom: 30px;
+}
+p{
+    line-height: 25px;
+}
+.aboutp{
+    margin-bottom: 80px;
+    padding-top: 30px;
+    color: yellow;
+    font-size: 25px;
+}
+.about{
+    text-align: center;
+}
+.aboutpage{
+    text-align: center;
+}
+.aboutpage img{
+    margin-right: 200px;
+    margin-left: 200px;
+}
+.aboutext{
+    margin-bottom: 47px;
+}

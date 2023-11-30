@@ -1,0 +1,42 @@
+.navbar{
+    display: flex;
+    padding: 20px;
+    padding-left: 40px;
+    border-bottom: 1px solid black;
+    margin-bottom: 90px;
+    background-color: white;
+    color: black;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+li{
+    margin-right: 45px;
+}
+.menu{
+    margin-left: 900px;
+}
+.menu a{
+    text-decoration: none;
+    color: black;
+}
+.home{
+    background-color: #1e1e1e;
+    color: white;
+    text-align: center;
+    padding-bottom: 20px;
+}
+p{
+    line-height: 25px;
+}
+.work{
+    color: yellow;
+}
+.strike{
+    text-decoration: line-through;
+}
+.homepage img{
+    margin-right: 180px;
+    margin-left: 180px;
+}

@@ -1,0 +1,36 @@
+.works{
+    text-align: center;
+    background-color: #1e1e1e;
+    color: white;
+}
+.worksp{
+    margin-bottom: 80px;
+    padding-top: 30px;
+    color: yellow;
+    font-size: 25px;
+}
+.workit{
+    padding-bottom: 20px;
+    margin: 0;
+}
+.catalogue-one{
+    display: flex;
+    margin-bottom: 50px;
+}
+.catalogue-two{
+    display: flex;
+    margin-bottom: 50px;
+}
+
+.catalogue-one img, .catalogue-two img{
+    width: 250px;
+    height: 300px;
+}
+.works a{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.works a:hover{
+    color: blue;
+}
